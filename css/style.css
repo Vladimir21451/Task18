@@ -1,0 +1,37 @@
+body{
+    width: 90%;
+    background-color: lightcyan;
+}
+table{
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    border: 1px solid grey;
+    background-color: white;
+    
+}
+td{
+    border: 1px solid grey;
+    height: 30px; 
+}
+th{
+    border: 1px solid grey;
+}
+.russia{
+    display: inline;
+}
+#btn{
+    position: absolute;
+    width: auto;
+    height:auto ;
+    background-color: cornflowerblue;
+    color: rgb(238, 233, 165);
+}
+.place, .zone{
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    border: 1px solid grey;
+    background-color: white;
+}

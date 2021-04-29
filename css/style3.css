@@ -1,0 +1,10 @@
+.btn-open, .btn-close, .btn-send, .btn-send-geo{
+    background-color: cornflowerblue;
+    color:white;
+    height: 30px;
+    font-weight: 20px;
+}
+#msg, #geo{
+    height: 30px;
+    font-weight: 20px;  
+}
